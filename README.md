@@ -1,1 +1,1 @@
-# umpire_gesture_reognition
+CNN -- Image Processing over the umpire gesture image labeling analysis.
